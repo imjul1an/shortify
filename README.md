@@ -1,4 +1,4 @@
-Shorty Challenge
+Shortify Challenge
 ================
 
 The trendy modern question for developer inteviews seems to be, "how to create an url shortner". Not wanting to fall too far from the cool kids, we have a challenge for you!
